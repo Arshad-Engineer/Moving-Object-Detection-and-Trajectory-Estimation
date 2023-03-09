@@ -15,6 +15,9 @@ Assuming that the origin of the video is at the top-left of the frame as shown b
 the x-coordinate of the ball’s landing spot in pixels, if the y-coordinate of the landing spot is
 defined as 300 pixels greater than its first detected location. [10]
 ![image](https://user-images.githubusercontent.com/112987383/223977492-8f76a4f6-b4a2-43dc-a055-6e55c79d7a4d.png)
+![image](https://user-images.githubusercontent.com/112987383/223980360-a9914b9a-f0c6-44b7-8059-574d696e3ace.png)
+
+
 
 ## A. File Structure
 
@@ -54,3 +57,5 @@ This projects consists of the following code files
     ```
 ## E. Results
 + On running each of the proframs, the output either pops out a plot or a video in individual window. The outputs can be correlated with the outputs shown in the report.
+![image](https://user-images.githubusercontent.com/112987383/223980405-d52f3bc7-a527-4799-bd21-7f02457d1013.png)
+
