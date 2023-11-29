@@ -17,7 +17,9 @@ defined as 300 pixels greater than its first detected location. [10]
 ![image](https://user-images.githubusercontent.com/112987383/223977492-8f76a4f6-b4a2-43dc-a055-6e55c79d7a4d.png)
 ![image](https://user-images.githubusercontent.com/112987383/223980360-a9914b9a-f0c6-44b7-8059-574d696e3ace.png)
 https://drive.google.com/file/d/1kP5n9sWoRFbt2p3_lJAqz86Zcp1QC5jF/view?usp=drive_link
-(https://www.youtube.com/watch?v=VObA5VUwynI)
+https://youtu.be/VObA5VUwynI
+[![Alt text](https://img.youtube.com/vi/VObA5VUwynI/0.jpg)](https://www.youtube.com/watch?v=VObA5VUwynI)
+
 
 ## A. File Structure
 
