@@ -18,7 +18,6 @@ defined as 300 pixels greater than its first detected location. [10]
 ![image](https://user-images.githubusercontent.com/112987383/223980360-a9914b9a-f0c6-44b7-8059-574d696e3ace.png)
 
 
-
 ## A. File Structure
 
 This projects consists of the following code files
